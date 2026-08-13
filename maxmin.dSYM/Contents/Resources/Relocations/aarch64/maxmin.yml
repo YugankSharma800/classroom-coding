@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/aradyasharma/Desktop/Sem1/maxmin'
+relocations:     []
+...
